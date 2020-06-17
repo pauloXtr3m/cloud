@@ -7,7 +7,7 @@ export const formatLongNumber = (n: string, comma = ',') => {
 // ref: https://codepen.io/559wade/pen/LRzEjj
 export const formatNumber = (
   inputVal: string,
-  swapDotByComma: boolean = false,
+  swapDotByComma = false,
   numDigits = 2,
   prefix: string = '',
 ) => {

@@ -12,7 +12,6 @@
     "basic",
     "basic-sys",
     "envars",
-    "envars-cli",
     "httpcodes",
     "js2ts",
     "lang-query-graph",
@@ -35,7 +34,7 @@
     "distX": "lerna publish"
   },
   "devDependencies": {
-    "husky": "^4.2.3",
+    "husky": "^4.2.5",
     "lerna": "3.20.2"
   }
 }

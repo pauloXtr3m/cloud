@@ -1,6 +1,6 @@
 {
   "name": "@cpmech/httpcodes",
-  "version": "3.10.0",
+  "version": "3.18.0",
   "license": "MIT",
   "author": {
     "name": "Dorival Pedroso",
@@ -26,15 +26,15 @@
     "httpcodes"
   ],
   "devDependencies": {
-    "@types/jest": "^25.1.4",
-    "@types/node": "^13.9.2",
-    "jest": "^25.1.0",
-    "prettier": "^1.19.1",
-    "rollup": "^2.1.0",
-    "rollup-plugin-typescript2": "^0.26.0",
-    "ts-jest": "^25.2.1",
+    "@types/jest": "^25.2.1",
+    "@types/node": "^13.13.5",
+    "jest": "^25.4.0",
+    "prettier": "^2.0.5",
+    "rollup": "^2.9.1",
+    "rollup-plugin-typescript2": "^0.27.0",
+    "ts-jest": "^25.5.1",
     "ts-node-dev": "^1.0.0-pre.44",
-    "tslint": "^6.1.0",
+    "tslint": "^6.1.2",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.8.3"
   }
